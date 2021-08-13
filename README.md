@@ -15,4 +15,4 @@ git clone https://github.com/Hakiki-XC/encrypt-py2
 
 cd encrypt-py2
 
-python out.py
+python2 out.py
